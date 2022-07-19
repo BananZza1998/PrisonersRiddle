@@ -33,8 +33,8 @@ HOWEVER
 
 There is a certain strategy, which increases the expected probability of winning from that small number to 0.31
 
-More about this strategy could be found on the wikipedia page (![link](https://en.wikipedia.org/wiki/100_prisoners_problem) in the repo content)
-Or in this video, which I originnaly saw it from (![video](https://www.youtube.com/watch?v=iSNsgj1OCLA))
+More about this strategy could be found on the wikipedia page ([link](https://en.wikipedia.org/wiki/100_prisoners_problem) in the repo content)
+Or in this video, which I originnaly saw it from ([video](https://www.youtube.com/watch?v=iSNsgj1OCLA))
 
 
 Check the code for the results of simulation
